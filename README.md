@@ -45,5 +45,5 @@ current technology; however, in
 practicality, current systems are
 manageable, but not ideal.
 
-## Flow Diagrams
-
+## Final Project 
+[Final Project](~./Logic Lab Final Poster.pdf)
