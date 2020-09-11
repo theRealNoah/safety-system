@@ -46,4 +46,4 @@ practicality, current systems are
 manageable, but not ideal.
 
 ## Final Project 
-[Final Project](Logic_Lab_Final_Poster.pdf)
+[Final Project](https://github.com/theRealNoah/safety-system/blob/master/Logic%20Lab%20Final%20Poster.pdf)
