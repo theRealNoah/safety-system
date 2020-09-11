@@ -45,5 +45,5 @@ current technology; however, in
 practicality, current systems are
 manageable, but not ideal.
 
-## Final Project 
+## Final Project Poster
 [Final Project](https://github.com/theRealNoah/safety-system/blob/master/Logic%20Lab%20Final%20Poster.pdf)
